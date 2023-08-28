@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf3cc8028d263224db29ec2a2364c7a5, type: 3}
+  m_Name: EnemiesPreset
+  m_EditorClassIdentifier: 
+  poolName: Enemies
+  poolItems:
+  - prefab: {fileID: 5156202807564437717, guid: 775f3f4886db2b340b818cb937af480f, type: 3}
+    size: 30
+  - prefab: {fileID: 8187584152611422035, guid: 6da9480e938dc0a4390f65759b7aab9e, type: 3}
+    size: 30
+  - prefab: {fileID: 5794473491234756294, guid: 9b9184a0ab14dbd46bbaa273305a2e11, type: 3}
+    size: 30
